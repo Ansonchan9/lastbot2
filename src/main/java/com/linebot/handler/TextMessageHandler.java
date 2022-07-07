@@ -166,7 +166,7 @@ public class TextMessageHandler {
                 //            final List<ImagemapAction> actions) {
                 this.reply(replyToken, ImagemapMessage
                         .builder()
-                        .baseUrl(new URI("https://www.kamigo.tw/assets/kamigo-c3b10dff4cdb60fa447496b22edad6c32fffde96de20262efba690892e4461e8.png#"))
+                        .baseUrl(new URI("https://png.pngtree.com/png-clipart/20200801/ourmid/pngtree-black-ring-png-image_2319165.jpg#"))
                         .altText("This is alt text")
                         .baseSize(new ImagemapBaseSize(1040, 1040))
                         .actions(Arrays.asList(
